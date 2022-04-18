@@ -1,4 +1,4 @@
-# authorizer-react
+# authorizer-react- customized
 
 Authorizer React SDK allows you to implement authentication in your [React](https://reactjs.org/) application quickly. It also allows you to access the user profile.
 
