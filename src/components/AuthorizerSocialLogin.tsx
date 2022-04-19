@@ -32,7 +32,7 @@ export const AuthorizerSocialLogin: React.FC<{
             }}
           >
             <Google />
-            Sign in with Google
+            구글로 시작하기
           </Button>
           <br />
         </>
